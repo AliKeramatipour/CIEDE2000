@@ -1,6 +1,5 @@
 # CIEDE2000 Formula
 
----
 
 This project implements the CIEDE2000 formula based on 
 
